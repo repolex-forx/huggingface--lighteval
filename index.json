@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "lighteval",
+  "versions": [
+    {
+      "commit": "b97a6533bec22c4184b88526366fdf5d73d502c9",
+      "tag": "",
+      "parsed_at": "2026-11-07T23:49:08.585243+00:00"
+    }
+  ]
+}
